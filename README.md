@@ -407,14 +407,6 @@ Before submitting this report:
     access only if those steps were actually completed and the evidence
     is authentic.
 
-## Repository Structure
-
-``` text
-.
-├── README.md
-└── TryHackMe_Bolt_Report_Gokul_HexarootSystems_TextMatched.pdf
-```
-
 If your PDF has a different filename, update the structure above and add
 a link to the actual PDF.
 
@@ -439,17 +431,7 @@ a link to the actual PDF.
 -   Record retest results after patches and configuration changes are
     applied in the lab.
 
-## Submission Checklist
 
--   [ ] Student name and group/member details added.
--   [ ] Assigned enterprise name added.
--   [ ] Required TryHackMe profile URL added.
--   [ ] Correct target IP and evidence timeline verified.
--   [ ] Screenshots readable and captions accurate.
--   [ ] PDF filename and README reference match.
--   [ ] Google Sheets PoC archive link added if required.
--   [ ] All claims are supported by the included evidence.
--   [ ] Report and evidence links are accessible to the evaluator.
 
 ## Disclaimer
 
