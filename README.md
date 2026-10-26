@@ -1,4 +1,4 @@
-# TryHackMe Bolt Room --- Full Cybersecurity Assessment Report
+# TryHackMe Bolt Room --- Full Cybersecurity Assessment
 
 > **Purpose:** Detailed project documentation for an authorized
 > TryHackMe Bolt lab. This README summarizes the supplied report and
